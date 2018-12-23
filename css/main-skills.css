@@ -1,0 +1,261 @@
+	.skills {
+		margin: 5px 0 20px;
+	}
+
+	.skill span {
+		float: left;
+		margin-right: 0px;
+		width: 92px;
+		height: 16px;
+	}
+
+	/* Colored Elements */
+
+	/* Red */
+
+	.skill-red-star-5 {
+		background: url("../images/skills/skills_red.png");
+	}
+
+	.skill-red-star-4 {
+		background: url("../images/skills/skills_red.png") 0 -16px;
+	}
+
+	.skill-red-star-3 {
+		background: url("../images/skills/skills_red.png") 0 -32px;
+	}
+
+	.skill-red-star-2 {
+		background: url("../images/skills/skills_red.png") 0 -48px;
+	}
+
+	.skill-red-star-1 {
+		background: url("../images/skills/skills_red.png") 0 -64px;
+	}
+
+	.skill-red-fill-5 {
+		background: url("../images/skills/skills_red.png") -92px 0;
+	}
+
+	.skill-red-fill-4 {
+		background: url("../images/skills/skills_red.png") -92px -16px;
+	}
+
+	.skill-red-fill-3 {
+		background: url("../images/skills/skills_red.png") -92px -32px;
+	}
+
+	.skill-red-fill-2 {
+		background: url("../images/skills/skills_red.png") -92px -48px;
+	}
+
+	.skill-red-fill-1 {
+		background: url("../images/skills/skills_red.png") -92px -64px;
+	}
+
+	.skill-red-stroke-5 {
+		background: url("../images/skills/skills_red.png") -184px 0;
+	}
+
+	.skill-red-stroke-4 {
+		background: url("../images/skills/skills_red.png") -184px -16px;
+	}
+
+	.skill-red-stroke-3 {
+		background: url("../images/skills/skills_red.png") -184px -32px;
+	}
+
+	.skill-red-stroke-2 {
+		background: url("../images/skills/skills_red.png") -184px -48px;
+	}
+
+	.skill-red-stroke-1 {
+		background: url("../images/skills/skills_red.png") -184px -64px;
+	}
+
+	/* Blue */
+
+	.skill-blue-star-5 {
+		background: url("../images/skills/skills_blue.png");
+	}
+
+	.skill-blue-star-4 {
+		background: url("../images/skills/skills_blue.png") 0 -16px;
+	}
+
+	.skill-blue-star-3 {
+		background: url("../images/skills/skills_blue.png") 0 -32px;
+	}
+
+	.skill-blue-star-2 {
+		background: url("../images/skills/skills_blue.png") 0 -48px;
+	}
+
+	.skill-blue-star-1 {
+		background: url("../images/skills/skills_blue.png") 0 -64px;
+	}
+
+	.skill-blue-fill-5 {
+		background: url("../images/skills/skills_blue.png") -92px 0;
+	}
+
+	.skill-blue-fill-4 {
+		background: url("../images/skills/skills_blue.png") -92px -16px;
+	}
+
+	.skill-blue-fill-3 {
+		background: url("../images/skills/skills_blue.png") -92px -32px;
+	}
+
+	.skill-blue-fill-2 {
+		background: url("../images/skills/skills_blue.png") -92px -48px;
+	}
+
+	.skill-blue-fill-1 {
+		background: url("../images/skills/skills_blue.png") -92px -64px;
+	}
+
+	.skill-blue-stroke-5 {
+		background: url("../images/skills/skills_blue.png") -184px 0;
+	}
+
+	.skill-blue-stroke-4 {
+		background: url("../images/skills/skills_blue.png") -184px -16px;
+	}
+
+	.skill-blue-stroke-3 {
+		background: url("../images/skills/skills_blue.png") -184px -32px;
+	}
+
+	.skill-blue-stroke-2 {
+		background: url("../images/skills/skills_blue.png") -184px -48px;
+	}
+
+	.skill-blue-stroke-1 {
+		background: url("../images/skills/skills_blue.png") -184px -64px;
+	}
+
+	/* Green */
+
+	.skill-green-star-5 {
+		background: url("../images/skills/skills_green.png");
+	}
+
+	.skill-green-star-4 {
+		background: url("../images/skills/skills_green.png") 0 -16px;
+	}
+
+	.skill-green-star-3 {
+		background: url("../images/skills/skills_green.png") 0 -32px;
+	}
+
+	.skill-green-star-2 {
+		background: url("../images/skills/skills_green.png") 0 -48px;
+	}
+
+	.skill-green-star-1 {
+		background: url("../images/skills/skills_green.png") 0 -64px;
+	}
+
+	.skill-green-fill-5 {
+		background: url("../images/skills/skills_green.png") -92px 0;
+	}
+
+	.skill-green-fill-4 {
+		background: url("../images/skills/skills_green.png") -92px -16px;
+	}
+
+	.skill-green-fill-3 {
+		background: url("../images/skills/skills_green.png") -92px -32px;
+	}
+
+	.skill-green-fill-2 {
+		background: url("../images/skills/skills_green.png") -92px -48px;
+	}
+
+	.skill-green-fill-1 {
+		background: url("../images/skills/skills_green.png") -92px -64px;
+	}
+
+	.skill-green-stroke-5 {
+		background: url("../images/skills/skills_green.png") -184px 0;
+	}
+
+	.skill-green-stroke-4 {
+		background: url("../images/skills/skills_green.png") -184px -16px;
+	}
+
+	.skill-green-stroke-3 {
+		background: url("../images/skills/skills_green.png") -184px -32px;
+	}
+
+	.skill-green-stroke-2 {
+		background: url("../images/skills/skills_green.png") -184px -48px;
+	}
+
+	.skill-green-stroke-1 {
+		background: url("../images/skills/skills_green.png") -184px -64px;
+	}
+
+	/* Yellow */
+
+	.skill-yellow-star-5 {
+		background: url("../images/skills/skills_yellow.png");
+	}
+
+	.skill-yellow-star-4 {
+		background: url("../images/skills/skills_yellow.png") 0 -16px;
+	}
+
+	.skill-yellow-star-3 {
+		background: url("../images/skills/skills_yellow.png") 0 -32px;
+	}
+
+	.skill-yellow-star-2 {
+		background: url("../images/skills/skills_yellow.png") 0 -48px;
+	}
+
+	.skill-yellow-star-1 {
+		background: url("../images/skills/skills_yellow.png") 0 -64px;
+	}
+
+	.skill-yellow-fill-5 {
+		background: url("../images/skills/skills_yellow.png") -92px 0;
+	}
+
+	.skill-yellow-fill-4 {
+		background: url("../images/skills/skills_yellow.png") -92px -16px;
+	}
+
+	.skill-yellow-fill-3 {
+		background: url("../images/skills/skills_yellow.png") -92px -32px;
+	}
+
+	.skill-yellow-fill-2 {
+		background: url("../images/skills/skills_yellow.png") -92px -48px;
+	}
+
+	.skill-yellow-fill-1 {
+		background: url("../images/skills/skills_yellow.png") -92px -64px;
+	}
+
+	.skill-yellow-stroke-5 {
+		background: url("../images/skills/skills_yellow.png") -184px 0;
+	}
+
+	.skill-yellow-stroke-4 {
+		background: url("../images/skills/skills_yellow.png") -184px -16px;
+	}
+
+	.skill-yellow-stroke-3 {
+		background: url("../images/skills/skills_yellow.png") -184px -32px;
+	}
+
+	.skill-yellow-stroke-2 {
+		background: url("../images/skills/skills_yellow.png") -184px -48px;
+	}
+
+	.skill-yellow-stroke-1 {
+		background: url("../images/skills/skills_yellow.png") -184px -64px;
+	}
+
