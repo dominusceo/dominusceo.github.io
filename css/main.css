@@ -1351,6 +1351,15 @@ textarea.form-control, textarea.form-control:focus {
 .skills-second-style .skill-container.skill-11 .skill-percentage {
   width: 50%;
 }
+
+.skills-second-style .skill-container.skill-12 .skill-percentage {
+  width: 60%;
+}
+
+.skills-second-style .skill-container.skill-13 .skill-percentage {
+  width: 70%;
+}
+
 /* --- End of Skills Values --- */
 
 /* Animate skills on subpage load */
